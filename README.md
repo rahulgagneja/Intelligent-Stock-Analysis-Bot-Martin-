@@ -1,1 +1,1 @@
-# Intelligent-Stock-Analysis-Bot-Martin-
+# Intelligent-Stock-Analysis-Bot-Martin
